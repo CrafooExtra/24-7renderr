@@ -32,8 +32,8 @@
       "repeat-delay": 450,
       "messages": [
         "Grinding XP right now...",
-        "Subscribe to Crafoo",
-        "Aur ha srvr ko prmote karna mat bhulna"
+        "Don't disturb, grinding mode ON",
+        "Arey main thoda busy hoon, grind kar raha"
       ]
     },
     "chat-log": true,
@@ -67,7 +67,8 @@
   "combat": {
     "attack-mobs": true,
     "auto-eat": true,
-    "interval": 1000
+    "interval": 1000,
+    "target-uuid": "43589ef8-4401-40dc-9e54-a607f4a35612"
   },
   "beds": {
     "pick-up-day": true,
